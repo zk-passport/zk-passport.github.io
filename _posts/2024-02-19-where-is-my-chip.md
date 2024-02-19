@@ -1,9 +1,7 @@
-
 ---
-title: Locating the NFC Chip in Your Passport
-date: 2021-10-20 10:00:00
-categories: [NFC, Passport]
-tags: [NFC, Passport]
+layout: post
+title: Where is located the NFC chip of my passport ?
+date: 2024-02-19 22:43 +0100
 ---
 
 
@@ -35,4 +33,5 @@ Below is a list of countries and the typical location of the NFC chip in their p
 - **France**: Dedicated chip page
 
 Remember, the location of the NFC chip in passports can change with new editions or vary by design choices made by each country. 
+
 
