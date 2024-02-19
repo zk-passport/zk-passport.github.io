@@ -30,7 +30,7 @@ The NFC chip in your passport serves as a digital key to your personal data, inc
 Below is a list of countries and the typical location of the NFC chip in their passports. This information can vary, so check your specific passport or contact your country's passport issuing authority for the most accurate details.
 
 
-- **France**: Dedicated chip page
+- **France**: Back cover
 
 Remember, the location of the NFC chip in passports can change with new editions or vary by design choices made by each country. 
 
