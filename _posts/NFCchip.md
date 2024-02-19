@@ -1,3 +1,12 @@
+
+---
+title: Locating the NFC Chip in Your Passport
+date: 2021-10-20 10:00:00
+categories: [NFC, Passport]
+tags: [NFC, Passport]
+---
+
+
 # Locating the NFC Chip in Your Passport
 
 ## Introduction
