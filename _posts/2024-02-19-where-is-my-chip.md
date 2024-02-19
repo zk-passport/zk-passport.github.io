@@ -10,7 +10,9 @@ date: 2024-02-19 22:43 +0100
 ## Introduction
 
 The NFC scan only works with biometric passports or e-passports (electronic passports), which contain an RFID chip.
-You can confirm that your passport contains an RFID chip by checking the cover for this symbol: [insert symbol here]
+You can confirm that your passport contains an RFID chip by checking the cover for this symbol:
+
+![Desktop View](/assets/img/passport_logo.svg.webp){: width="180" height="80" }
 
 ## Find the NFC Chip in Your Passport
 
