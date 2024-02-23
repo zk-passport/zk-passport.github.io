@@ -16,7 +16,7 @@ timezone: Europe/Paris
 
 title: Proof of Passport # the main title
 
-tagline: The future of digital identity, open source # it will display as the sub-title
+tagline: The kind of proof she has a kink on # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Generate Zero-knowledge proofs over your passport data.
