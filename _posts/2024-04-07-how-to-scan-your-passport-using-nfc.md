@@ -11,3 +11,4 @@ date: 2024-04-07 16:06 +0200
 3. Leave your phone on your passport until the read is complete.
 
 Chip placement varies, so you may need to try more than one location.
+
